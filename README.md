@@ -30,19 +30,6 @@ D1 Review mode
 <img width="4070" height="1706" alt="Group 172" src="https://github.com/user-attachments/assets/4e75bd36-f122-4c77-87d6-dd599ace0d15" />
 Quick Capture & Task Breakdown Assistant
 
-# Project Ownership & AI Use Disclosure
-
-Project conception, UX design, interaction logic, and system decisions were made by me.
-
-Frontend structure, feature selection, and integration logic were implemented by me.
-
-Gemini was used as an assistive tool to:
-
-accelerate boilerplate setup and support debugging or refactoring during development.
-
-All architectural decisions, feature prioritisation, and final implementations were reviewed, adapted, and controlled by me.
-
-
 # Tech Stack
 
 Frontend: JavaScript / TypeScript
@@ -53,19 +40,3 @@ AI Integration: Google Gemini API
 
 Tooling: Node.js
 
-# Run and deploy your AI Studio app
-
-This contains everything you need to run your app locally.
-
-View your app in AI Studio: https://ai.studio/apps/drive/1XZYECRtWdy9PQ_8hbu6UNwa0wAgVU5LW
-
-## Run Locally
-
-**Prerequisites:**  Node.js
-
-
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
