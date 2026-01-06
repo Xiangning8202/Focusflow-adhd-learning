@@ -32,11 +32,9 @@ Quick Capture & Task Breakdown Assistant
 
 # Tech Stack
 
-Frontend: JavaScript / TypeScript
+- **Frontend:** React + TypeScript (Vite)
+- **UI Architecture:** Component-based interface design
+- **AI Support:** Google Gemini API (used selectively for content structuring)
+- **Tooling:** Node.js
 
-Framework: React / Next.js
-
-AI Integration: Google Gemini API
-
-Tooling: Node.js
 
